@@ -1,0 +1,6 @@
+name: AdvancedHDPlaceholder
+version: '${version}'
+main: run.tere.plugin.advancedhdplaceholder.AdvancedHDPlaceholder
+api-version: 1.18
+authors: [ tererun ]
+description: AdvancedHDPlaceholder
